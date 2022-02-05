@@ -1,0 +1,82 @@
+.animacion{
+    width: 100%
+}
+.izquierdo{
+    display: flex;
+    justify-content: left;
+}
+#bandera{
+    margin-left: 200px;
+    border: 1px solid black;
+    height: 133px;
+    width: 30%;
+}
+#azul{
+    background-color: blue;
+    height: 30%;
+    width: 100% ;
+}
+#blanco{
+    background-color: white;
+    height: 30%;
+    width: 100% ;
+}
+#rojo{
+    background-color: red;
+    height: 30%;
+    width: 100% ;
+}
+#blanco{
+    background-color: white;
+    height: 30%;
+    width: 100% ;
+}
+.date{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+textarea{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.botones-items{
+    text-align: center;
+     margin: 20px 10px;
+}
+.items{
+    background-color: cornflowerblue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.items:hover{
+    background-color: cyan;
+}
+.items:active{
+    background-color: white;
+}
+select{
+    
+    box-sizing: border-box;
+    margin: 5px;
+    margin-left: 150px;
+    padding: 20px 20px;
+    padding-left:100px ;
+    width: 100%;
+}

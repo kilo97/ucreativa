@@ -1,0 +1,50 @@
+body{
+    margin: 0 100px 
+    
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+
+.derecho{
+    margin-left: 40px;
+   
+}
+textarea{
+    width: 99%;
+    text-align: center;
+}
+h1{
+    margin-left: 200px;
+}
+.columnas-video{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.botones-items{
+    text-align: center;
+     margin: 20px 10px;
+}
+.items{
+    background-color: cornflowerblue;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.items:hover{
+    background-color: cyan;
+}
+.items:active{
+    background-color: white;
+}
+iframe{
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin: 10px;
+    box-shadow: darkturquoise 10px 10px 10px;
+}
