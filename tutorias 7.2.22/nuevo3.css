@@ -1,0 +1,48 @@
+.grid{
+  display: grid;
+  grid-template-columns: 30% 70%;
+ gap: 15px;
+ height: 100vh;
+}
+.perfil{
+  display:grid ;
+  justify-content: center;
+  background-color: lightblue;
+  border-radius: 5%;
+  text-align: center;
+  
+}
+.nav-right a {
+color: white;
+}
+.nav-principal{
+  border-radius: 3%;
+display: grid;
+justify-content: center;
+background-color: cadetblue;
+
+}
+
+.grid2{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 20px;
+}
+.botones{
+  color: white;
+  background-color: blue;
+  
+  margin-bottom: 20px;
+}
+.nombre{
+  font-size: 20px;
+  font-weight: 700;
+  color: red;
+}
+
+.letra-pre{
+  border:  2px solid black;
+  background-color: lightblue;
+  
+
+}
