@@ -1,0 +1,10 @@
+#element{
+    background-color: lightblue;
+    justify-content: center;
+    border: black solid 2px ;
+}
+#element2{
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    border: black solid 2px ;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(105, 105, 105);
+}
+
+.red-container {
+    background-color: red;
+    float: left;
+    height: 33%;
+    width: 66%;
+}
+
+.green-container {
+    background-color: green;
+    float: right;
+    height: 66%;
+    margin-right: 1%;
+    width: 33%;
+}
+
+.blue-container {
+    background-color: blue;
+    float: left;
+    height: 33%;
+    width: 33%;
+}
+
+.black-container {
+    background-color: black;
+    float: left;
+    height: 66%;
+    width: 33%;
+}
+
+.pink-container {
+    background-color: pink;
+    float: left;
+    height: 33%;
+    width: 33%;
+}

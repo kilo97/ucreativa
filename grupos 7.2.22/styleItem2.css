@@ -1,0 +1,45 @@
+.icon {
+    margin-left: 40%;
+}
+
+.left-container {
+    background-color: cornflowerblue;
+    float: left;
+    height: 75%;
+    width: 33%;
+    border: black solid;
+}
+
+.right-container {
+    background-color: beige;
+    float: right;
+    height: 75%;
+    width: 33%;
+    border: black solid;
+}
+
+.center-container {
+    background-color: crimson;
+    float: left;
+    margin-left: .5%;
+    height: 75%;
+    width: 33%;
+    border: black solid;
+}
+
+.botton-container {
+    background-color: greenyellow;
+    float: left;
+    border: black solid;
+    margin-top: .5%;
+    height: 25%;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+
+.border-set {
+    border: black solid;
+}

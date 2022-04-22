@@ -1,0 +1,30 @@
+{
+"nombre":"keilor",
+"apellido":25,
+"ocupacion":"Estudiante",
+"hijos":1,
+"lenguajes":[
+   {
+"spanish":100
+} ,
+{
+"english":50
+}
+],
+"color":"blanco",
+"altura":1.71,
+"peso":67,
+
+"nacionalidad":[
+{
+"pais":"costa rica",
+"provincia":"alajuela",
+"distrito":"quesada",
+"barrio":"san martin" 
+},
+{
+"Ciudad actual":"Quesada",
+"estado civil":"soltero"
+}
+                 ]
+}
